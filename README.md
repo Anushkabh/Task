@@ -122,6 +122,7 @@
       "error": "Error message here"
     }
     ```
+    
 
 ### Get Tasks by Priority
 - **URL**: `/tasks/:priority`
@@ -136,7 +137,7 @@
         "id": "task_id_here",
     
       },
-      ...
+      
     ]
     ```
 - **Error Response**:
