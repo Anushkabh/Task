@@ -87,7 +87,7 @@
     {
       "task": {
         "id": "task_id_here",
-        // Task details
+        
       }
     }
     ```
@@ -134,7 +134,7 @@
     [
       {
         "id": "task_id_here",
-        // Task details
+    
       },
       ...
     ]
@@ -144,7 +144,7 @@
   - **Content**: 
     ```json
     {
-      "error": "Error message here"
+      "error": "Error message "
     }
     ```
 
@@ -158,7 +158,7 @@
     ```json
     {
       "id": "task_id_here",
-      // Task details
+      
     }
     ```
 - **Error Response**:
@@ -182,7 +182,7 @@
     ```json
     {
       "id": "task_id_here",
-      // Updated task details
+      
     }
     ```
 - **Error Response**:
@@ -204,7 +204,7 @@
     ```json
     {
       "id": "task_id_here",
-      // Deleted task details
+      
     }
     ```
 - **Error Response**:
@@ -216,6 +216,4 @@
     }
     ```
 
-## Error Handling
-- **Code**: `500`
-- **Content**: Internal server error occurred.
+
