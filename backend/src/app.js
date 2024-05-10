@@ -9,7 +9,7 @@ var cors = require("cors");
 const app = express();
 const port = process.env.PORT || 3001;
 
-mongoose.connect("mongodb+srv://ashishsonii2002:1234567890@taskmanager.qfjmkxc.mongodb.net/TaskManager", {
+mongoose.connect("mongodb+srv://anushkabh6:ANUro@cluster0.ku0hjoz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
